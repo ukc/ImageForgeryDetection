@@ -17,8 +17,10 @@ Run as:
 
 for RNN:
 python create_dataset_csv_file.py
+
 Python RNN.py 
 
 for CNN:
 python create_dataset_csv_file.py
+
 Python CNN.py 
